@@ -1,0 +1,18 @@
+#
+# this is your module manifest and used by Titanium
+# during compilation, packaging, distribution, etc.
+#
+version: 0.1
+apiversion: 2
+description: My module
+author: Your Name
+license: Specify your license
+copyright: Copyright (c) 2014 by Your Company
+
+
+# these should not be edited
+name: TiWebViewClearCache
+moduleid: be.k0suke.tiwebviewclearcache
+guid: d9a12e16-e472-4a53-bc22-a3bf6e3ac8f3
+platform: android
+minsdk: 3.2.0.GA
